@@ -58,11 +58,18 @@ house size — match it. Roughly:
 | RECALL | ~400 words (8–11 cards) |
 | CONNECTIONS + GLOSSARY | ~200 words |
 
-Under 1,400 total means you dropped something the video covered. Over 2,600 means you
-imported material from the book (against the locked depth decision) or you're padding.
-Note that "video-faithful" constrains *what goes in*, not how thoroughly you explain
-it — a 2,400-word note covering only what the video said is correct; a 2,400-word note
-that reaches into the book is not.
+**Scale the ceiling to the video.** The house range above fits a 10–14 minute episode.
+Longer or denser videos legitimately run longer — eps 33 and 34 land near 2,900 because
+those videos cover three failure modes and a full estimation method respectively. Judge
+by content, not by the counter:
+
+- Under 1,400 → you dropped something the video covered.
+- Over 2,900 → check honestly whether you imported book material (against the locked
+  depth decision) or padded. If every paragraph traces to the transcript, it's fine.
+
+"Video-faithful" constrains *what goes in*, not how thoroughly you explain it. A
+2,400-word note covering only what the video said is correct; a 2,400-word note that
+reaches into the book is not.
 
 A genuinely thin episode gets a genuinely short note. Ep 3 is the shortest in batch A
 because the video is a taxonomy with little mechanism. Don't inflate it.
