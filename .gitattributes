@@ -1,0 +1,4 @@
+# Keep line endings LF in the repo; don't nag about CRLF in the working tree.
+* text=auto eol=lf
+*.png binary
+*.jpg binary

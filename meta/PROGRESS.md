@@ -2,26 +2,26 @@
 
 Status of all 72 episodes. **Update this in the same commit as the notes.**
 
-Legend:   not started Ãƒâ€šÃ‚Â· ~ drafted, not verified Ãƒâ€šÃ‚Â· x written, verified, built, pushed
+Legend:   not started ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· ~ drafted, not verified ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· x written, verified, built, pushed
 
 | Batch | Scope | Status | Date |
 |---|---|---|---|
-| A | Ch 1-5 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Foundations ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â eps 1-11 | not started | ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â |
-| B | Ch 6-8 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Causal diagrams & back doors ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â eps 12-18 | not started | ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â |
-| C | Ch 9-11 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Front doors, treatment effects, less modeling ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â eps 19-24 | not started | ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â |
-| D | Ch 13 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Regression ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â eps 25-34 | not started | ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â |
-| E | Ch 14 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Matching ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â eps 35-41 | not started | ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â |
-| F | Ch 15-16 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Simulation & fixed effects ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â eps 42-47 | not started | ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â |
-| G | Ch 17 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Event studies ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â eps 48-50 | not started | ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â |
-| H | Ch 18 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Difference-in-differences ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â eps 51-56 | not started | ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â |
-| I | Ch 19 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Instrumental variables ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â eps 57-60 | not started | ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â |
-| J | Ch 20 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Regression discontinuity ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â eps 61-64 | not started | ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â |
-| K | Ch 22-23 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Rogues gallery & under the rug ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â eps 65-69 | not started | ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â |
-| L | Ch 21 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Partial identification ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â eps 70-72 | not started | ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â |
+| A | Ch 1-5 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Foundations ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â eps 1-11 | not started | ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â |
+| B | Ch 6-8 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Causal diagrams & back doors ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â eps 12-18 | not started | ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â |
+| C | Ch 9-11 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Front doors, treatment effects, less modeling ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â eps 19-24 | not started | ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â |
+| D | Ch 13 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Regression ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â eps 25-34 | not started | ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â |
+| E | Ch 14 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Matching ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â eps 35-41 | not started | ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â |
+| F | Ch 15-16 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Simulation & fixed effects ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â eps 42-47 | not started | ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â |
+| G | Ch 17 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Event studies ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â eps 48-50 | not started | ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â |
+| H | Ch 18 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Difference-in-differences ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â eps 51-56 | not started | ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â |
+| I | Ch 19 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Instrumental variables ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â eps 57-60 | not started | ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â |
+| J | Ch 20 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Regression discontinuity ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â eps 61-64 | not started | ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â |
+| K | Ch 22-23 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Rogues gallery & under the rug ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â eps 65-69 | not started | ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â |
+| L | Ch 21 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Partial identification ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â eps 70-72 | not started | ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â |
 
 ---
 
-### Batch A ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Ch 1-5 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Foundations
+### Batch A ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Ch 1-5 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Foundations
 
 | | Ep | Title | Chapter |
 |---|---|---|---|
@@ -37,7 +37,7 @@ Legend:   not started Ãƒâ€šÃ‚Â· ~ drafted, not verified Ãƒâ€šÃ
 | [x] | 10 | Alternative Explanations | 5 |
 | [x] | 11 | Alcohol and Mortality | 5 |
 
-### Batch B ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Ch 6-8 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Causal diagrams & back doors
+### Batch B ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Ch 6-8 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Causal diagrams & back doors
 
 | | Ep | Title | Chapter |
 |---|---|---|---|
@@ -49,7 +49,7 @@ Legend:   not started Ãƒâ€šÃ‚Â· ~ drafted, not verified Ãƒâ€šÃ
 | [x] | 17 | Closing Causal Pathways, and Collider Variables | 8 |
 | [x] | 18 | Testing Causal Diagrams, and Placebo Tests | 8 |
 
-### Batch C ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Ch 9-11 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Front doors, treatment effects, less modeling
+### Batch C ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Ch 9-11 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Front doors, treatment effects, less modeling
 
 | | Ep | Title | Chapter |
 |---|---|---|---|
@@ -60,22 +60,22 @@ Legend:   not started Ãƒâ€šÃ‚Â· ~ drafted, not verified Ãƒâ€šÃ
 | [x] | 23 | Weighted Average Treatment Effects | 10 |
 | [x] | 24 | Causality with Less Modeling | 11 |
 
-### Batch D ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Ch 13 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Regression
+### Batch D ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Ch 13 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Regression
 
 | | Ep | Title | Chapter |
 |---|---|---|---|
-| [ ] | 25 | Regression and The Error Term | 13 |
-| [ ] | 26 | Regression and Sampling Variation | 13 |
-| [ ] | 27 | Reading Regression Tables | 13 |
-| [ ] | 28 | Interpreting a Regression Coefficient | 13 |
-| [ ] | 29 | Polynomials in Regression | 13 |
-| [ ] | 30 | Logarithms in Regression | 13 |
-| [ ] | 31 | Categorical Predictors | 13 |
+| [x] | 25 | Regression and The Error Term | 13 |
+| [x] | 26 | Regression and Sampling Variation | 13 |
+| [x] | 27 | Reading Regression Tables | 13 |
+| [x] | 28 | Interpreting a Regression Coefficient | 13 |
+| [x] | 29 | Polynomials in Regression | 13 |
+| [x] | 30 | Logarithms in Regression | 13 |
+| [x] | 31 | Categorical Predictors | 13 |
 | [ ] | 32 | Interaction Terms | 13 |
 | [ ] | 33 | Your Standard Errors are Wrong | 13 |
 | [ ] | 34 | Probit and Logit | 13 |
 
-### Batch E ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Ch 14 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Matching
+### Batch E ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Ch 14 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Matching
 
 | | Ep | Title | Chapter |
 |---|---|---|---|
@@ -87,7 +87,7 @@ Legend:   not started Ãƒâ€šÃ‚Â· ~ drafted, not verified Ãƒâ€šÃ
 | [ ] | 40 | When Matching Goes Wrong | 14 |
 | [ ] | 41 | Treatment Effect Estimation with Matching | 14 |
 
-### Batch F ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Ch 15-16 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Simulation & fixed effects
+### Batch F ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Ch 15-16 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Simulation & fixed effects
 
 | | Ep | Title | Chapter |
 |---|---|---|---|
@@ -98,7 +98,7 @@ Legend:   not started Ãƒâ€šÃ‚Â· ~ drafted, not verified Ãƒâ€šÃ
 | [ ] | 46 | Estimating Fixed Effects | 16 |
 | [ ] | 47 | Random Effects | 16 |
 
-### Batch G ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Ch 17 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Event studies
+### Batch G ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Ch 17 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Event studies
 
 | | Ep | Title | Chapter |
 |---|---|---|---|
@@ -106,7 +106,7 @@ Legend:   not started Ãƒâ€šÃ‚Â· ~ drafted, not verified Ãƒâ€šÃ
 | [ ] | 49 | Interrupted Time Series | 17 |
 | [ ] | 50 | Event Studies in Finance | 17 |
 
-### Batch H ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Ch 18 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Difference-in-differences
+### Batch H ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Ch 18 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Difference-in-differences
 
 | | Ep | Title | Chapter |
 |---|---|---|---|
@@ -117,7 +117,7 @@ Legend:   not started Ãƒâ€šÃ‚Â· ~ drafted, not verified Ãƒâ€šÃ
 | [ ] | 55 | Dynamic Difference-in-Differences | 18 |
 | [ ] | 56 | Staggered Treatment Difference-in-Differences | 18 |
 
-### Batch I ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Ch 19 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Instrumental variables
+### Batch I ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Ch 19 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Instrumental variables
 
 | | Ep | Title | Chapter |
 |---|---|---|---|
@@ -126,7 +126,7 @@ Legend:   not started Ãƒâ€šÃ‚Â· ~ drafted, not verified Ãƒâ€šÃ
 | [ ] | 59 | Estimating Instrumental Variables | 19 |
 | [ ] | 60 | Testing Instrumental Variables Assumptions | 19 |
 
-### Batch J ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Ch 20 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Regression discontinuity
+### Batch J ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Ch 20 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Regression discontinuity
 
 | | Ep | Title | Chapter |
 |---|---|---|---|
@@ -135,7 +135,7 @@ Legend:   not started Ãƒâ€šÃ‚Â· ~ drafted, not verified Ãƒâ€šÃ
 | [ ] | 63 | Adjustments to Regression Discontinuity | 20 |
 | [ ] | 64 | Checking Regression Discontinuity Assumptions | 20 |
 
-### Batch K ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Ch 22-23 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Rogues gallery & under the rug
+### Batch K ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Ch 22-23 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Rogues gallery & under the rug
 
 | | Ep | Title | Chapter |
 |---|---|---|---|
@@ -145,7 +145,7 @@ Legend:   not started Ãƒâ€šÃ‚Â· ~ drafted, not verified Ãƒâ€šÃ
 | [ ] | 68 | Missing Data | 23 |
 | [ ] | 69 | Under the Rug | 23 |
 
-### Batch L ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Ch 21 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Partial identification
+### Batch L ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Ch 21 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Partial identification
 
 | | Ep | Title | Chapter |
 |---|---|---|---|
@@ -159,6 +159,7 @@ Legend:   not started Ãƒâ€šÃ‚Â· ~ drafted, not verified Ãƒâ€šÃ
 
 Append one line per session: what was done, anything the next session needs to know.
 
-- **2026-07-22** Ã¢â‚¬â€ Session 1. Built the whole scaffold (build.mjs, styles, app.js, meta docs) and wrote batch A, eps 1-11. Downloaded and committed all 72 transcripts, so no future session needs network or yt-dlp. Reference implementation for tone and density is `content/ep-01.md`; length norms are in PIPELINE.md. Next up: batch B, eps 12-18 (causal diagrams).
-- **2026-07-22** â€” Session 1 cont. Batch B, eps 12-18 (Ch 6-8). Ch 8 is the conceptual spine of the whole book: paths, front/back doors, good/bad paths, open/closed, colliders, placebo tests. Later episodes lean on this vocabulary constantly â€” keep the terms exactly as defined in eps 16-17. Next: batch C, eps 19-24.
-- **2026-07-22** — Session 1 cont. Batch C, eps 19-24 (Ch 9-11). **Part 1 of the book is now complete.** Ch 10 carries five numbered rules of thumb for which treatment-effect average a design yields; they are introduced out of order across eps 21-23 (1, then 2 and 4, then 3 and 5) because the videos follow the book. Eps 22-23 use exact numbers from Nick's four-person table (Alfred 1, Brianna 4, Chizu 3, Diego 2; ATE 2.5, CATE-men 1.5, ATT 2) - keep them consistent if referenced later. Next: batch D, eps 25-34 (Ch 13, Regression) - the largest single batch at 10 episodes.
+- **2026-07-22** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Session 1. Built the whole scaffold (build.mjs, styles, app.js, meta docs) and wrote batch A, eps 1-11. Downloaded and committed all 72 transcripts, so no future session needs network or yt-dlp. Reference implementation for tone and density is `content/ep-01.md`; length norms are in PIPELINE.md. Next up: batch B, eps 12-18 (causal diagrams).
+- **2026-07-22** Ã¢â‚¬â€ Session 1 cont. Batch B, eps 12-18 (Ch 6-8). Ch 8 is the conceptual spine of the whole book: paths, front/back doors, good/bad paths, open/closed, colliders, placebo tests. Later episodes lean on this vocabulary constantly Ã¢â‚¬â€ keep the terms exactly as defined in eps 16-17. Next: batch C, eps 19-24.
+- **2026-07-22** â€” Session 1 cont. Batch C, eps 19-24 (Ch 9-11). **Part 1 of the book is now complete.** Ch 10 carries five numbered rules of thumb for which treatment-effect average a design yields; they are introduced out of order across eps 21-23 (1, then 2 and 4, then 3 and 5) because the videos follow the book. Eps 22-23 use exact numbers from Nick's four-person table (Alfred 1, Brianna 4, Chizu 3, Diego 2; ATE 2.5, CATE-men 1.5, ATT 2) - keep them consistent if referenced later. Next: batch D, eps 25-34 (Ch 13, Regression) - the largest single batch at 10 episodes.
+- **2026-07-22** — Session 1 cont. Batch D partially done: eps 25-31 written and pushed. **Eps 32 (Interaction Terms), 33 (Your Standard Errors are Wrong), and 34 (Probit and Logit) still to write** - transcripts for 32 and 33 have already been read and are straightforward; start there. Ep 28's mantra (''a one-unit change in X is associated with a coefficient-sized unit change in Y'') is referenced by eps 29-32, so keep the wording identical. Added .gitattributes to stop CRLF warnings on every commit.
