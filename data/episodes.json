@@ -1,0 +1,650 @@
+[
+    {
+        "ep":  1,
+        "title":  "Designing Research",
+        "videoId":  "yQXqdmenc6M",
+        "url":  "https://www.youtube.com/watch?v=yQXqdmenc6M",
+        "chapter":  1,
+        "chapterTitle":  "Designing Research",
+        "slug":  "ep-01"
+    },
+    {
+        "ep":  2,
+        "title":  "Research Questions",
+        "videoId":  "ZPuEFjJ2us8",
+        "url":  "https://www.youtube.com/watch?v=ZPuEFjJ2us8",
+        "chapter":  2,
+        "chapterTitle":  "Research Questions",
+        "slug":  "ep-02"
+    },
+    {
+        "ep":  3,
+        "title":  "Types of Variables",
+        "videoId":  "_kJx97lX8bQ",
+        "url":  "https://www.youtube.com/watch?v=_kJx97lX8bQ",
+        "chapter":  3,
+        "chapterTitle":  "Describing Variables",
+        "slug":  "ep-03"
+    },
+    {
+        "ep":  4,
+        "title":  "Summarizing Variables",
+        "videoId":  "XqiV1maDt44",
+        "url":  "https://www.youtube.com/watch?v=XqiV1maDt44",
+        "chapter":  3,
+        "chapterTitle":  "Describing Variables",
+        "slug":  "ep-04"
+    },
+    {
+        "ep":  5,
+        "title":  "Theoretical Distributions",
+        "videoId":  "MsB46s7VqDM",
+        "url":  "https://www.youtube.com/watch?v=MsB46s7VqDM",
+        "chapter":  3,
+        "chapterTitle":  "Describing Variables",
+        "slug":  "ep-05"
+    },
+    {
+        "ep":  6,
+        "title":  "Conditional Distributions",
+        "videoId":  "Mhguc0zFGPE",
+        "url":  "https://www.youtube.com/watch?v=Mhguc0zFGPE",
+        "chapter":  4,
+        "chapterTitle":  "Describing Relationships",
+        "slug":  "ep-06"
+    },
+    {
+        "ep":  7,
+        "title":  "Line-Fitting",
+        "videoId":  "lKpXDiD5ZYg",
+        "url":  "https://www.youtube.com/watch?v=lKpXDiD5ZYg",
+        "chapter":  4,
+        "chapterTitle":  "Describing Relationships",
+        "slug":  "ep-07"
+    },
+    {
+        "ep":  8,
+        "title":  "Conditional Conditional Means a.k.a. Control Variables",
+        "videoId":  "ZuYsvTEDdEE",
+        "url":  "https://www.youtube.com/watch?v=ZuYsvTEDdEE",
+        "chapter":  4,
+        "chapterTitle":  "Describing Relationships",
+        "slug":  "ep-08"
+    },
+    {
+        "ep":  9,
+        "title":  "Data Generating Processes",
+        "videoId":  "JWNN46aiIAE",
+        "url":  "https://www.youtube.com/watch?v=JWNN46aiIAE",
+        "chapter":  5,
+        "chapterTitle":  "Identification",
+        "slug":  "ep-09"
+    },
+    {
+        "ep":  10,
+        "title":  "Alternative Explanations",
+        "videoId":  "pR_m0HjEcjU",
+        "url":  "https://www.youtube.com/watch?v=pR_m0HjEcjU",
+        "chapter":  5,
+        "chapterTitle":  "Identification",
+        "slug":  "ep-10"
+    },
+    {
+        "ep":  11,
+        "title":  "Alcohol and Mortality",
+        "videoId":  "xP_mVOh2R3w",
+        "url":  "https://www.youtube.com/watch?v=xP_mVOh2R3w",
+        "chapter":  5,
+        "chapterTitle":  "Identification",
+        "slug":  "ep-11"
+    },
+    {
+        "ep":  12,
+        "title":  "Causality",
+        "videoId":  "J6P4RwWdGBw",
+        "url":  "https://www.youtube.com/watch?v=J6P4RwWdGBw",
+        "chapter":  6,
+        "chapterTitle":  "Causal Diagrams",
+        "slug":  "ep-12"
+    },
+    {
+        "ep":  13,
+        "title":  "Causal Diagrams",
+        "videoId":  "aMNGfodzKO8",
+        "url":  "https://www.youtube.com/watch?v=aMNGfodzKO8",
+        "chapter":  6,
+        "chapterTitle":  "Causal Diagrams",
+        "slug":  "ep-13"
+    },
+    {
+        "ep":  14,
+        "title":  "Drawing Causal Diagrams",
+        "videoId":  "NOslfkYr_II",
+        "url":  "https://www.youtube.com/watch?v=NOslfkYr_II",
+        "chapter":  7,
+        "chapterTitle":  "Drawing Causal Diagrams",
+        "slug":  "ep-14"
+    },
+    {
+        "ep":  15,
+        "title":  "Simplifying Causal Diagrams",
+        "videoId":  "h5C2iMoHFag",
+        "url":  "https://www.youtube.com/watch?v=h5C2iMoHFag",
+        "chapter":  7,
+        "chapterTitle":  "Drawing Causal Diagrams",
+        "slug":  "ep-15"
+    },
+    {
+        "ep":  16,
+        "title":  "Causal Pathways",
+        "videoId":  "ZTSgNR_PiXo",
+        "url":  "https://www.youtube.com/watch?v=ZTSgNR_PiXo",
+        "chapter":  8,
+        "chapterTitle":  "Causal Paths and Closing Back Doors",
+        "slug":  "ep-16"
+    },
+    {
+        "ep":  17,
+        "title":  "Closing Causal Pathways, and Collider Variables",
+        "videoId":  "PJMVtpogJnQ",
+        "url":  "https://www.youtube.com/watch?v=PJMVtpogJnQ",
+        "chapter":  8,
+        "chapterTitle":  "Causal Paths and Closing Back Doors",
+        "slug":  "ep-17"
+    },
+    {
+        "ep":  18,
+        "title":  "Testing Causal Diagrams, and Placebo Tests",
+        "videoId":  "Zdbuf71i_Mg",
+        "url":  "https://www.youtube.com/watch?v=Zdbuf71i_Mg",
+        "chapter":  8,
+        "chapterTitle":  "Causal Paths and Closing Back Doors",
+        "slug":  "ep-18"
+    },
+    {
+        "ep":  19,
+        "title":  "Finding Front Doors",
+        "videoId":  "lnGgMLDFiJg",
+        "url":  "https://www.youtube.com/watch?v=lnGgMLDFiJg",
+        "chapter":  9,
+        "chapterTitle":  "Finding Front Doors",
+        "slug":  "ep-19"
+    },
+    {
+        "ep":  20,
+        "title":  "Front Door Examples",
+        "videoId":  "EsCjBtG_UZw",
+        "url":  "https://www.youtube.com/watch?v=EsCjBtG_UZw",
+        "chapter":  9,
+        "chapterTitle":  "Finding Front Doors",
+        "slug":  "ep-20"
+    },
+    {
+        "ep":  21,
+        "title":  "Treatment Effects",
+        "videoId":  "MzfMaODuHGI",
+        "url":  "https://www.youtube.com/watch?v=MzfMaODuHGI",
+        "chapter":  10,
+        "chapterTitle":  "Treatment Effects",
+        "slug":  "ep-21"
+    },
+    {
+        "ep":  22,
+        "title":  "Conditional Average Treatment Effects",
+        "videoId":  "_kZPZExnbno",
+        "url":  "https://www.youtube.com/watch?v=_kZPZExnbno",
+        "chapter":  10,
+        "chapterTitle":  "Treatment Effects",
+        "slug":  "ep-22"
+    },
+    {
+        "ep":  23,
+        "title":  "Weighted Average Treatment Effects",
+        "videoId":  "NrlQ2S4DhCc",
+        "url":  "https://www.youtube.com/watch?v=NrlQ2S4DhCc",
+        "chapter":  10,
+        "chapterTitle":  "Treatment Effects",
+        "slug":  "ep-23"
+    },
+    {
+        "ep":  24,
+        "title":  "Causality with Less Modeling",
+        "videoId":  "LBEXer-W4Dg",
+        "url":  "https://www.youtube.com/watch?v=LBEXer-W4Dg",
+        "chapter":  11,
+        "chapterTitle":  "Causality with Less Modeling",
+        "slug":  "ep-24"
+    },
+    {
+        "ep":  25,
+        "title":  "Regression and The Error Term",
+        "videoId":  "0Aukw3CdB-Q",
+        "url":  "https://www.youtube.com/watch?v=0Aukw3CdB-Q",
+        "chapter":  13,
+        "chapterTitle":  "Regression",
+        "slug":  "ep-25"
+    },
+    {
+        "ep":  26,
+        "title":  "Regression and Sampling Variation",
+        "videoId":  "rLp0i2A006w",
+        "url":  "https://www.youtube.com/watch?v=rLp0i2A006w",
+        "chapter":  13,
+        "chapterTitle":  "Regression",
+        "slug":  "ep-26"
+    },
+    {
+        "ep":  27,
+        "title":  "Reading Regression Tables",
+        "videoId":  "lhmxz0qR6Kg",
+        "url":  "https://www.youtube.com/watch?v=lhmxz0qR6Kg",
+        "chapter":  13,
+        "chapterTitle":  "Regression",
+        "slug":  "ep-27"
+    },
+    {
+        "ep":  28,
+        "title":  "Interpreting a Regression Coefficient",
+        "videoId":  "EcSagvjcUo0",
+        "url":  "https://www.youtube.com/watch?v=EcSagvjcUo0",
+        "chapter":  13,
+        "chapterTitle":  "Regression",
+        "slug":  "ep-28"
+    },
+    {
+        "ep":  29,
+        "title":  "Polynomials in Regression",
+        "videoId":  "myk1YZbKDYw",
+        "url":  "https://www.youtube.com/watch?v=myk1YZbKDYw",
+        "chapter":  13,
+        "chapterTitle":  "Regression",
+        "slug":  "ep-29"
+    },
+    {
+        "ep":  30,
+        "title":  "Logarithms in Regression",
+        "videoId":  "M6L1mk59ZiU",
+        "url":  "https://www.youtube.com/watch?v=M6L1mk59ZiU",
+        "chapter":  13,
+        "chapterTitle":  "Regression",
+        "slug":  "ep-30"
+    },
+    {
+        "ep":  31,
+        "title":  "Categorical Predictors",
+        "videoId":  "NXpwHt_88c4",
+        "url":  "https://www.youtube.com/watch?v=NXpwHt_88c4",
+        "chapter":  13,
+        "chapterTitle":  "Regression",
+        "slug":  "ep-31"
+    },
+    {
+        "ep":  32,
+        "title":  "Interaction Terms",
+        "videoId":  "mD9hSCfcd-o",
+        "url":  "https://www.youtube.com/watch?v=mD9hSCfcd-o",
+        "chapter":  13,
+        "chapterTitle":  "Regression",
+        "slug":  "ep-32"
+    },
+    {
+        "ep":  33,
+        "title":  "Your Standard Errors are Wrong",
+        "videoId":  "BbP1HfXiITs",
+        "url":  "https://www.youtube.com/watch?v=BbP1HfXiITs",
+        "chapter":  13,
+        "chapterTitle":  "Regression",
+        "slug":  "ep-33"
+    },
+    {
+        "ep":  34,
+        "title":  "Probit and Logit",
+        "videoId":  "Ho_oE8qJw_M",
+        "url":  "https://www.youtube.com/watch?v=Ho_oE8qJw_M",
+        "chapter":  13,
+        "chapterTitle":  "Regression",
+        "slug":  "ep-34"
+    },
+    {
+        "ep":  35,
+        "title":  "Matching",
+        "videoId":  "nRfRswoZlqo",
+        "url":  "https://www.youtube.com/watch?v=nRfRswoZlqo",
+        "chapter":  14,
+        "chapterTitle":  "Matching",
+        "slug":  "ep-35"
+    },
+    {
+        "ep":  36,
+        "title":  "Five Questions About Matching",
+        "videoId":  "bafdI39LcoE",
+        "url":  "https://www.youtube.com/watch?v=bafdI39LcoE",
+        "chapter":  14,
+        "chapterTitle":  "Matching",
+        "slug":  "ep-36"
+    },
+    {
+        "ep":  37,
+        "title":  "Distance Matching",
+        "videoId":  "wMQTuRX3XmM",
+        "url":  "https://www.youtube.com/watch?v=wMQTuRX3XmM",
+        "chapter":  14,
+        "chapterTitle":  "Matching",
+        "slug":  "ep-37"
+    },
+    {
+        "ep":  38,
+        "title":  "Propensity Score Matching",
+        "videoId":  "1T3JYjhrNwE",
+        "url":  "https://www.youtube.com/watch?v=1T3JYjhrNwE",
+        "chapter":  14,
+        "chapterTitle":  "Matching",
+        "slug":  "ep-38"
+    },
+    {
+        "ep":  39,
+        "title":  "Coarsened Exact Matching and Entropy Balancing",
+        "videoId":  "Pp-qs-mNEjI",
+        "url":  "https://www.youtube.com/watch?v=Pp-qs-mNEjI",
+        "chapter":  14,
+        "chapterTitle":  "Matching",
+        "slug":  "ep-39"
+    },
+    {
+        "ep":  40,
+        "title":  "When Matching Goes Wrong",
+        "videoId":  "M6AsS4zaWQk",
+        "url":  "https://www.youtube.com/watch?v=M6AsS4zaWQk",
+        "chapter":  14,
+        "chapterTitle":  "Matching",
+        "slug":  "ep-40"
+    },
+    {
+        "ep":  41,
+        "title":  "Treatment Effect Estimation with Matching",
+        "videoId":  "OE_KzNJl75k",
+        "url":  "https://www.youtube.com/watch?v=OE_KzNJl75k",
+        "chapter":  14,
+        "chapterTitle":  "Matching",
+        "slug":  "ep-41"
+    },
+    {
+        "ep":  42,
+        "title":  "Simulation",
+        "videoId":  "5t4sKlLSGRk",
+        "url":  "https://www.youtube.com/watch?v=5t4sKlLSGRk",
+        "chapter":  15,
+        "chapterTitle":  "Simulation",
+        "slug":  "ep-42"
+    },
+    {
+        "ep":  43,
+        "title":  "Running a Simulation",
+        "videoId":  "xhLpDI-2zLs",
+        "url":  "https://www.youtube.com/watch?v=xhLpDI-2zLs",
+        "chapter":  15,
+        "chapterTitle":  "Simulation",
+        "slug":  "ep-43"
+    },
+    {
+        "ep":  44,
+        "title":  "Power Analysis",
+        "videoId":  "grAkwv2S_bQ",
+        "url":  "https://www.youtube.com/watch?v=grAkwv2S_bQ",
+        "chapter":  15,
+        "chapterTitle":  "Simulation",
+        "slug":  "ep-44"
+    },
+    {
+        "ep":  45,
+        "title":  "Fixed Effects",
+        "videoId":  "Z1QmFuPV9JA",
+        "url":  "https://www.youtube.com/watch?v=Z1QmFuPV9JA",
+        "chapter":  16,
+        "chapterTitle":  "Fixed Effects",
+        "slug":  "ep-45"
+    },
+    {
+        "ep":  46,
+        "title":  "Estimating Fixed Effects",
+        "videoId":  "2Kz1g0RoTtI",
+        "url":  "https://www.youtube.com/watch?v=2Kz1g0RoTtI",
+        "chapter":  16,
+        "chapterTitle":  "Fixed Effects",
+        "slug":  "ep-46"
+    },
+    {
+        "ep":  47,
+        "title":  "Random Effects",
+        "videoId":  "Esp0LWTBuk4",
+        "url":  "https://www.youtube.com/watch?v=Esp0LWTBuk4",
+        "chapter":  16,
+        "chapterTitle":  "Fixed Effects",
+        "slug":  "ep-47"
+    },
+    {
+        "ep":  48,
+        "title":  "Event Studies",
+        "videoId":  "_N9u9p-kNgg",
+        "url":  "https://www.youtube.com/watch?v=_N9u9p-kNgg",
+        "chapter":  17,
+        "chapterTitle":  "Event Studies",
+        "slug":  "ep-48"
+    },
+    {
+        "ep":  49,
+        "title":  "Interrupted Time Series",
+        "videoId":  "C3PnQxW9LiE",
+        "url":  "https://www.youtube.com/watch?v=C3PnQxW9LiE",
+        "chapter":  17,
+        "chapterTitle":  "Event Studies",
+        "slug":  "ep-49"
+    },
+    {
+        "ep":  50,
+        "title":  "Event Studies in Finance",
+        "videoId":  "1cBKzjp4_MI",
+        "url":  "https://www.youtube.com/watch?v=1cBKzjp4_MI",
+        "chapter":  17,
+        "chapterTitle":  "Event Studies",
+        "slug":  "ep-50"
+    },
+    {
+        "ep":  51,
+        "title":  "Difference-in-Differences",
+        "videoId":  "ggYnrOGG97o",
+        "url":  "https://www.youtube.com/watch?v=ggYnrOGG97o",
+        "chapter":  18,
+        "chapterTitle":  "Difference-in-Differences",
+        "slug":  "ep-51"
+    },
+    {
+        "ep":  52,
+        "title":  "Parallel Trends",
+        "videoId":  "NcHT8pl57HY",
+        "url":  "https://www.youtube.com/watch?v=NcHT8pl57HY",
+        "chapter":  18,
+        "chapterTitle":  "Difference-in-Differences",
+        "slug":  "ep-52"
+    },
+    {
+        "ep":  53,
+        "title":  "Estimating Difference-in-Differences",
+        "videoId":  "95HxUdn-BJg",
+        "url":  "https://www.youtube.com/watch?v=95HxUdn-BJg",
+        "chapter":  18,
+        "chapterTitle":  "Difference-in-Differences",
+        "slug":  "ep-53"
+    },
+    {
+        "ep":  54,
+        "title":  "Supporting Parallel Trends",
+        "videoId":  "ihIWuC6ULjo",
+        "url":  "https://www.youtube.com/watch?v=ihIWuC6ULjo",
+        "chapter":  18,
+        "chapterTitle":  "Difference-in-Differences",
+        "slug":  "ep-54"
+    },
+    {
+        "ep":  55,
+        "title":  "Dynamic Difference-in-Differences",
+        "videoId":  "_nknBbw-HFQ",
+        "url":  "https://www.youtube.com/watch?v=_nknBbw-HFQ",
+        "chapter":  18,
+        "chapterTitle":  "Difference-in-Differences",
+        "slug":  "ep-55"
+    },
+    {
+        "ep":  56,
+        "title":  "Staggered Treatment Difference-in-Differences",
+        "videoId":  "hu2nDbnpALA",
+        "url":  "https://www.youtube.com/watch?v=hu2nDbnpALA",
+        "chapter":  18,
+        "chapterTitle":  "Difference-in-Differences",
+        "slug":  "ep-56"
+    },
+    {
+        "ep":  57,
+        "title":  "Instrumental Variables",
+        "videoId":  "bfQgLnFdLSg",
+        "url":  "https://www.youtube.com/watch?v=bfQgLnFdLSg",
+        "chapter":  19,
+        "chapterTitle":  "Instrumental Variables",
+        "slug":  "ep-57"
+    },
+    {
+        "ep":  58,
+        "title":  "Instrumental Variable Validity",
+        "videoId":  "HL8jR9CDlfA",
+        "url":  "https://www.youtube.com/watch?v=HL8jR9CDlfA",
+        "chapter":  19,
+        "chapterTitle":  "Instrumental Variables",
+        "slug":  "ep-58"
+    },
+    {
+        "ep":  59,
+        "title":  "Estimating Instrumental Variables",
+        "videoId":  "DjLXqFTvVWg",
+        "url":  "https://www.youtube.com/watch?v=DjLXqFTvVWg",
+        "chapter":  19,
+        "chapterTitle":  "Instrumental Variables",
+        "slug":  "ep-59"
+    },
+    {
+        "ep":  60,
+        "title":  "Testing Instrumental Variables Assumptions",
+        "videoId":  "B8MUeudCoWo",
+        "url":  "https://www.youtube.com/watch?v=B8MUeudCoWo",
+        "chapter":  19,
+        "chapterTitle":  "Instrumental Variables",
+        "slug":  "ep-60"
+    },
+    {
+        "ep":  61,
+        "title":  "Regression Discontinuity",
+        "videoId":  "5FM4-xbaS58",
+        "url":  "https://www.youtube.com/watch?v=5FM4-xbaS58",
+        "chapter":  20,
+        "chapterTitle":  "Regression Discontinuity",
+        "slug":  "ep-61"
+    },
+    {
+        "ep":  62,
+        "title":  "Estimating Regression Discontinuity",
+        "videoId":  "FPBQL0OKmI0",
+        "url":  "https://www.youtube.com/watch?v=FPBQL0OKmI0",
+        "chapter":  20,
+        "chapterTitle":  "Regression Discontinuity",
+        "slug":  "ep-62"
+    },
+    {
+        "ep":  63,
+        "title":  "Adjustments to Regression Discontinuity",
+        "videoId":  "3HazJ8Tv6d0",
+        "url":  "https://www.youtube.com/watch?v=3HazJ8Tv6d0",
+        "chapter":  20,
+        "chapterTitle":  "Regression Discontinuity",
+        "slug":  "ep-63"
+    },
+    {
+        "ep":  64,
+        "title":  "Checking Regression Discontinuity Assumptions",
+        "videoId":  "WJ7j08xVegY",
+        "url":  "https://www.youtube.com/watch?v=WJ7j08xVegY",
+        "chapter":  20,
+        "chapterTitle":  "Regression Discontinuity",
+        "slug":  "ep-64"
+    },
+    {
+        "ep":  65,
+        "title":  "Other Standard Research Designs",
+        "videoId":  "csEV78U367Y",
+        "url":  "https://www.youtube.com/watch?v=csEV78U367Y",
+        "chapter":  22,
+        "chapterTitle":  "Gallery of Rogues",
+        "slug":  "ep-65"
+    },
+    {
+        "ep":  66,
+        "title":  "Estimating Heterogeneous Treatment Effects",
+        "videoId":  "edyGri4ZQ6A",
+        "url":  "https://www.youtube.com/watch?v=edyGri4ZQ6A",
+        "chapter":  22,
+        "chapterTitle":  "Gallery of Rogues",
+        "slug":  "ep-66"
+    },
+    {
+        "ep":  67,
+        "title":  "Measurement and Validity",
+        "videoId":  "PoXgKq5p4p8",
+        "url":  "https://www.youtube.com/watch?v=PoXgKq5p4p8",
+        "chapter":  23,
+        "chapterTitle":  "Under the Rug",
+        "slug":  "ep-67"
+    },
+    {
+        "ep":  68,
+        "title":  "Missing Data",
+        "videoId":  "ly5zOpSxBLs",
+        "url":  "https://www.youtube.com/watch?v=ly5zOpSxBLs",
+        "chapter":  23,
+        "chapterTitle":  "Under the Rug",
+        "slug":  "ep-68"
+    },
+    {
+        "ep":  69,
+        "title":  "Under the Rug",
+        "videoId":  "LpRIHgagdAc",
+        "url":  "https://www.youtube.com/watch?v=LpRIHgagdAc",
+        "chapter":  23,
+        "chapterTitle":  "Under the Rug",
+        "slug":  "ep-69"
+    },
+    {
+        "ep":  70,
+        "title":  "Partial Identification",
+        "videoId":  "IsarAcinE-8",
+        "url":  "https://www.youtube.com/watch?v=IsarAcinE-8",
+        "chapter":  21,
+        "chapterTitle":  "Partial Identification",
+        "slug":  "ep-70"
+    },
+    {
+        "ep":  71,
+        "title":  "Partial Identification in Regression with Cinelli \u0026 Hazlett",
+        "videoId":  "KeiHJNs9IXA",
+        "url":  "https://www.youtube.com/watch?v=KeiHJNs9IXA",
+        "chapter":  21,
+        "chapterTitle":  "Partial Identification",
+        "slug":  "ep-71"
+    },
+    {
+        "ep":  72,
+        "title":  "Partial Identification in Matching with Rosenbaum Bounds",
+        "videoId":  "AJIxFViwoVU",
+        "url":  "https://www.youtube.com/watch?v=AJIxFViwoVU",
+        "chapter":  21,
+        "chapterTitle":  "Partial Identification",
+        "slug":  "ep-72"
+    }
+]

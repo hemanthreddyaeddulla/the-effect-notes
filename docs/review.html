@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Review deck — The Effect notes</title>
+<meta name="description" content="Spaced-repetition recall drill across every episode."/>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%86%B3%3C/text%3E%3C/svg%3E"/>
+<link rel="stylesheet" href="./assets/styles.css"/>
+
+<script>(function(){try{var t=localStorage.getItem('effect-theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}})();</script>
+</head>
+<body class="review">
+<header class="topbar">
+  <a class="brand" href="./index.html"><span class="brand-mark">↳</span> The Effect <span class="brand-sub">notes</span></a>
+  <nav><a href="./index.html">Episodes</a><a href="./review.html" class="active">Review deck</a><a href="./glossary.html">Glossary</a></nav>
+  <div class="topbar-right">
+    <button id="search-open" class="iconbtn" title="Search (/)" aria-label="Search">⌕</button>
+    <button id="theme-toggle" class="iconbtn" title="Toggle theme" aria-label="Toggle theme">◐</button>
+  </div>
+</header>
+<div id="search-modal" class="search-modal" hidden>
+  <div class="search-panel">
+    <input id="search-input" type="search" placeholder="Search all notes…" autocomplete="off"/>
+    <div id="search-results"></div>
+  </div>
+</div>
+<main class="page narrow">
+  <div class="rv-head">
+    <h1>Review deck</h1>
+    <p class="lede">Every recall question from every written episode, scheduled by how well you knew it. Answer honestly — the schedule only helps if the ratings are real.</p>
+    <div class="rv-stats">
+      <span class="chip"><b id="rv-due">0</b> due</span>
+      <span class="chip"><b id="rv-total">0</b> total</span>
+      <span class="chip"><b id="rv-new">0</b> new</span>
+    </div>
+  </div>
+  <div id="rv-app"></div>
+</main>
+<script src="./assets/app.js"></script>
+
+</body>
+</html>

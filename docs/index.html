@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>The Effect — notes on all 72 causal inference videos</title>
+<meta name="description" content="Retention-first notes for Nick Huntington-Klein’s video series accompanying The Effect."/>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%86%B3%3C/text%3E%3C/svg%3E"/>
+<link rel="stylesheet" href="./assets/styles.css"/>
+
+<script>(function(){try{var t=localStorage.getItem('effect-theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}})();</script>
+</head>
+<body class="home">
+<header class="topbar">
+  <a class="brand" href="./index.html"><span class="brand-mark">↳</span> The Effect <span class="brand-sub">notes</span></a>
+  <nav><a href="./index.html" class="active">Episodes</a><a href="./review.html">Review deck</a><a href="./glossary.html">Glossary</a></nav>
+  <div class="topbar-right">
+    <button id="search-open" class="iconbtn" title="Search (/)" aria-label="Search">⌕</button>
+    <button id="theme-toggle" class="iconbtn" title="Toggle theme" aria-label="Toggle theme">◐</button>
+  </div>
+</header>
+<div id="search-modal" class="search-modal" hidden>
+  <div class="search-panel">
+    <input id="search-input" type="search" placeholder="Search all notes…" autocomplete="off"/>
+    <div id="search-results"></div>
+  </div>
+</div>
+<main class="page">
+  <div class="hero">
+    <h1>The Effect</h1>
+    <p class="lede">Notes for all 72 videos in Nick Huntington-Klein’s causal inference series. Watch the episode, read the page, then say it out loud.</p>
+    <div class="stats">
+      <div class="stat"><b>11</b><span>of 72 written</span></div>
+      <div class="stat"><b id="learned-count">0</b><span>marked learned</span></div>
+      <div class="stat"><b>22</b><span>chapters</span></div>
+    </div>
+    <div class="progress"><div class="bar" style="width:15.3%"></div></div>
+    <p class="src">Source: <a href="https://theeffectbook.net" target="_blank" rel="noopener">theeffectbook.net</a> · <a href="https://nickchk.com/theeffectvideos.html" target="_blank" rel="noopener">video index</a></p>
+  </div>
+  <section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">1</span>Designing Research</h2>
+    <span class="ch-count">1/1</span></header>
+    <ol class="ep-list"><li class="ep-item" data-ep="1"><a href="ep-01.html"><span class="n">1</span><span class="t">Designing Research</span><span class="one">Data never answers your question by itself — you can have perfectly good data, run a perfectly correct analysis, and still end up </span></a><span class="tick" title="learned">✓</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">2</span>Research Questions</h2>
+    <span class="ch-count">1/1</span></header>
+    <ol class="ep-list"><li class="ep-item" data-ep="2"><a href="ep-02.html"><span class="n">2</span><span class="t">Research Questions</span><span class="one">You care about *why* the world works the way it does, but data can only show you *what* happened — so a research question is the b</span></a><span class="tick" title="learned">✓</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">3</span>Describing Variables</h2>
+    <span class="ch-count">3/3</span></header>
+    <ol class="ep-list"><li class="ep-item" data-ep="3"><a href="ep-03.html"><span class="n">3</span><span class="t">Types of Variables</span><span class="one">There are five kinds of variables — continuous, count, ordinal, categorical, and qualitative — and which kind you have decides whi</span></a><span class="tick" title="learned">✓</span></li><li class="ep-item" data-ep="4"><a href="ep-04.html"><span class="n">4</span><span class="t">Summarizing Variables</span><span class="one">Every variable has a **distribution** — how often each value occurs — and summarizing a variable means compressing that distributi</span></a><span class="tick" title="learned">✓</span></li><li class="ep-item" data-ep="5"><a href="ep-05.html"><span class="n">5</span><span class="t">Theoretical Distributions</span><span class="one">You only ever get one sample, but you can reason about the **theoretical distribution** — how your answer would vary if you could </span></a><span class="tick" title="learned">✓</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">4</span>Describing Relationships</h2>
+    <span class="ch-count">3/3</span></header>
+    <ol class="ep-list"><li class="ep-item" data-ep="6"><a href="ep-06.html"><span class="n">6</span><span class="t">Conditional Distributions</span><span class="one">Two variables are related exactly when learning the value of one **changes the distribution** of the other — so describing a relat</span></a><span class="tick" title="learned">✓</span></li><li class="ep-item" data-ep="7"><a href="ep-07.html"><span class="n">7</span><span class="t">Line-Fitting</span><span class="one">A fitted line is a compressed conditional distribution: plug in a value of X, read the height of the line, and you have the condit</span></a><span class="tick" title="learned">✓</span></li><li class="ep-item" data-ep="8"><a href="ep-08.html"><span class="n">8</span><span class="t">Conditional Conditional Means a.k.a. Control Variables</span><span class="one">Controlling for a variable means explaining away everything Z can account for in both X and Y, throwing that part out, and asking </span></a><span class="tick" title="learned">✓</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">5</span>Identification</h2>
+    <span class="ch-count">3/3</span></header>
+    <ol class="ep-list"><li class="ep-item" data-ep="9"><a href="ep-09.html"><span class="n">9</span><span class="t">Data Generating Processes</span><span class="one">Behind your data sits a **data generating process** — the set of laws and regularities that made the data what it is, operating wh</span></a><span class="tick" title="learned">✓</span></li><li class="ep-item" data-ep="10"><a href="ep-10.html"><span class="n">10</span><span class="t">Alternative Explanations</span><span class="one">You can never see causation in data — only that two variables are related — so identification works by **listing every other reaso</span></a><span class="tick" title="learned">✓</span></li><li class="ep-item" data-ep="11"><a href="ep-11.html"><span class="n">11</span><span class="t">Alcohol and Mortality</span><span class="one">&quot;One drink a day is good for you&quot; comes from comparing one-drink-a-day people to non-drinkers — but non-drinkers include people to</span></a><span class="tick" title="learned">✓</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">6</span>Causal Diagrams</h2>
+    <span class="ch-count">0/2</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">12</span><span class="t">Causality</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">13</span><span class="t">Causal Diagrams</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">7</span>Drawing Causal Diagrams</h2>
+    <span class="ch-count">0/2</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">14</span><span class="t">Drawing Causal Diagrams</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">15</span><span class="t">Simplifying Causal Diagrams</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">8</span>Causal Paths and Closing Back Doors</h2>
+    <span class="ch-count">0/3</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">16</span><span class="t">Causal Pathways</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">17</span><span class="t">Closing Causal Pathways, and Collider Variables</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">18</span><span class="t">Testing Causal Diagrams, and Placebo Tests</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">9</span>Finding Front Doors</h2>
+    <span class="ch-count">0/2</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">19</span><span class="t">Finding Front Doors</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">20</span><span class="t">Front Door Examples</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">10</span>Treatment Effects</h2>
+    <span class="ch-count">0/3</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">21</span><span class="t">Treatment Effects</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">22</span><span class="t">Conditional Average Treatment Effects</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">23</span><span class="t">Weighted Average Treatment Effects</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">11</span>Causality with Less Modeling</h2>
+    <span class="ch-count">0/1</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">24</span><span class="t">Causality with Less Modeling</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">13</span>Regression</h2>
+    <span class="ch-count">0/10</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">25</span><span class="t">Regression and The Error Term</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">26</span><span class="t">Regression and Sampling Variation</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">27</span><span class="t">Reading Regression Tables</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">28</span><span class="t">Interpreting a Regression Coefficient</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">29</span><span class="t">Polynomials in Regression</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">30</span><span class="t">Logarithms in Regression</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">31</span><span class="t">Categorical Predictors</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">32</span><span class="t">Interaction Terms</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">33</span><span class="t">Your Standard Errors are Wrong</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">34</span><span class="t">Probit and Logit</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">14</span>Matching</h2>
+    <span class="ch-count">0/7</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">35</span><span class="t">Matching</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">36</span><span class="t">Five Questions About Matching</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">37</span><span class="t">Distance Matching</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">38</span><span class="t">Propensity Score Matching</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">39</span><span class="t">Coarsened Exact Matching and Entropy Balancing</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">40</span><span class="t">When Matching Goes Wrong</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">41</span><span class="t">Treatment Effect Estimation with Matching</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">15</span>Simulation</h2>
+    <span class="ch-count">0/3</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">42</span><span class="t">Simulation</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">43</span><span class="t">Running a Simulation</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">44</span><span class="t">Power Analysis</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">16</span>Fixed Effects</h2>
+    <span class="ch-count">0/3</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">45</span><span class="t">Fixed Effects</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">46</span><span class="t">Estimating Fixed Effects</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">47</span><span class="t">Random Effects</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">17</span>Event Studies</h2>
+    <span class="ch-count">0/3</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">48</span><span class="t">Event Studies</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">49</span><span class="t">Interrupted Time Series</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">50</span><span class="t">Event Studies in Finance</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">18</span>Difference-in-Differences</h2>
+    <span class="ch-count">0/6</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">51</span><span class="t">Difference-in-Differences</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">52</span><span class="t">Parallel Trends</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">53</span><span class="t">Estimating Difference-in-Differences</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">54</span><span class="t">Supporting Parallel Trends</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">55</span><span class="t">Dynamic Difference-in-Differences</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">56</span><span class="t">Staggered Treatment Difference-in-Differences</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">19</span>Instrumental Variables</h2>
+    <span class="ch-count">0/4</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">57</span><span class="t">Instrumental Variables</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">58</span><span class="t">Instrumental Variable Validity</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">59</span><span class="t">Estimating Instrumental Variables</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">60</span><span class="t">Testing Instrumental Variables Assumptions</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">20</span>Regression Discontinuity</h2>
+    <span class="ch-count">0/4</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">61</span><span class="t">Regression Discontinuity</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">62</span><span class="t">Estimating Regression Discontinuity</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">63</span><span class="t">Adjustments to Regression Discontinuity</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">64</span><span class="t">Checking Regression Discontinuity Assumptions</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">21</span>Partial Identification</h2>
+    <span class="ch-count">0/3</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">70</span><span class="t">Partial Identification</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">71</span><span class="t">Partial Identification in Regression with Cinelli &amp; Hazlett</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">72</span><span class="t">Partial Identification in Matching with Rosenbaum Bounds</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">22</span>Gallery of Rogues</h2>
+    <span class="ch-count">0/2</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">65</span><span class="t">Other Standard Research Designs</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">66</span><span class="t">Estimating Heterogeneous Treatment Effects</span><span class="soon">notes coming</span></li></ol></section><section class="ch">
+    <header class="ch-head"><h2><span class="ch-num">23</span>Under the Rug</h2>
+    <span class="ch-count">0/3</span></header>
+    <ol class="ep-list"><li class="ep-item pending"><span class="n">67</span><span class="t">Measurement and Validity</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">68</span><span class="t">Missing Data</span><span class="soon">notes coming</span></li><li class="ep-item pending"><span class="n">69</span><span class="t">Under the Rug</span><span class="soon">notes coming</span></li></ol></section>
+</main>
+<script src="./assets/app.js"></script>
+
+</body>
+</html>
