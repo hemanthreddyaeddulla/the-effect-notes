@@ -5,6 +5,11 @@ Notes for all **72 videos** in Nick Huntington-Klein's series accompanying
 
 **→ [Read the notes](https://hemanthreddyaeddulla.github.io/the-effect-notes)**
 
+**Status: complete.** All 72 episodes are written, covering Chapters 1–23 — research
+design and causality, regression, matching, simulation, fixed effects, event studies,
+difference-in-differences, instrumental variables, regression discontinuity, and the
+second edition's new chapter on partial identification.
+
 Built to be read *right after* watching an episode, and to leave you able to explain
 the idea out loud without rehearsing. Every page has the same shape:
 
